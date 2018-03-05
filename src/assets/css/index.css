@@ -1,0 +1,86 @@
+/*例子*/
+html,body{
+  padding:0;
+  margin:0px !important; 
+}
+.fff{
+  color:#fff
+}
+.bg-fff{
+  background:#fff;
+}
+.ff5700{
+  color:#ff5700;
+}
+.weight{
+  font-weight:bold;
+}
+.font-18{
+  font-size:18px;
+}
+.bg-fa8d13{
+  background:#fa8d13;
+}
+.e1423f{
+  color:#e1423f;
+}
+.font-16{
+  font-size:16px;
+}
+.font-20{
+  font-size:20px;
+}
+.font-14{
+  font-size:14px;
+}
+.color-939393{
+  color:#939393;
+}
+.font-30{
+  font-size:30px;
+}
+.color-555{
+  color:#555;
+}
+.color-686868{
+  color:#686868;
+}
+.o-h{
+  overflow:hidden;
+}
+.color-8b8b8b{
+  color:#8b8b8b;
+}
+.color-29a1d5{
+  color:#29a1d5;
+}
+.font-36{
+  font-size:36px;
+}
+.ededed{
+  color:#ededed;
+}
+.font-22{
+  font-size:22px;
+}
+.t-l{
+  text-align:left;
+}
+.text-indent{
+  text-indent:32px;
+}
+.p-r{
+  position:relative;
+}
+.z-index{
+  z-index:3;
+}
+.p-a{
+  position:absolute;
+}
+.ver-middle{
+  vertical-align: middle;
+}
+.font-24{
+  font-size:24px;
+}

@@ -1,0 +1,10 @@
+stages:
+  - deploy2ftp
+deploy:
+    stage: deploy2ftp
+    script:
+      - ~/.local/bin/deploy2ftp Web yygw
+    only:
+      - master
+    tags:
+      - 共享
